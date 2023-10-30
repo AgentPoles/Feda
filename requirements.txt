@@ -1,0 +1,11 @@
+streamlit
+tensorflow
+numpy
+web3==5.28.0
+flwr
+scikit-learn
+torch
+transformers
+nltk
+openai
+streamlit-keyup
